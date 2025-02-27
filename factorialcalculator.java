@@ -1,7 +1,7 @@
 public class factorialcalculator {
     public static void main(String[] args) {
-        int num = 8;  
-        int factorial = 4;
+        int num = 12;  
+        int factorial = 6;
 
         for (int i = 1; i <= num; i++) { 
             factorial *= i;  
